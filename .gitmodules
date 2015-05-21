@@ -1,0 +1,9 @@
+[submodule "mrbgems/mruby-sha1"]
+	path = mrbgems/mruby-sha1
+	url = https://github.com/mattn/mruby-sha1
+[submodule "mrbgems/mruby-sha2"]
+	path = mrbgems/mruby-sha2
+	url = https://github.com/h2so5/mruby-sha2
+[submodule "mrbgems/mruby-ripemd"]
+	path = mrbgems/mruby-ripemd
+	url = https://github.com/scalone/mruby-ripemd
